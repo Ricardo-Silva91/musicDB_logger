@@ -2,7 +2,7 @@
 music logger with html frontend
  
 not ready for release
-missing:
-  backend (unfinished)
-  dynamic paths
+missing:  
+  backend (unfinished);  
+  dynamic paths;  
   
