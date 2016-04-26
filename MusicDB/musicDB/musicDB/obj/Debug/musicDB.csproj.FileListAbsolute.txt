@@ -1,0 +1,28 @@
+D:\ua local\MusicDB\musicDB\musicDB\bin\Debug\musicDB.exe.config
+D:\ua local\MusicDB\musicDB\musicDB\bin\Debug\musicDB.exe
+D:\ua local\MusicDB\musicDB\musicDB\bin\Debug\musicDB.pdb
+D:\ua local\MusicDB\musicDB\musicDB\bin\Debug\Newtonsoft.Json.dll
+D:\ua local\MusicDB\musicDB\musicDB\bin\Debug\Newtonsoft.Json.xml
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.csprojResolveAssemblyReference.cache
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.Properties.Resources.resources
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.csproj.GenerateResource.Cache
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.exe
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.pdb
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.Form1.resources
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.Details.resources
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.AddTrack.resources
+D:\ua local\MusicDB\musicDB\musicDB\obj\Debug\musicDB.AddAlbum.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Debug\musicDB.exe.config
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.exe
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.pdb
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Debug\musicDB.exe
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Debug\musicDB.pdb
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.AddAlbum.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.AddTrack.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.Details.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.Form1.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.Properties.Resources.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Debug\musicDB.csproj.GenerateResource.Cache

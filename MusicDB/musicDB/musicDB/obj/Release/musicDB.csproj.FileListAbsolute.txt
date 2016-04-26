@@ -1,0 +1,14 @@
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Release\musicDB.exe.config
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Release\musicDB.exe
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Release\musicDB.pdb
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Release\Newtonsoft.Json.dll
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\bin\Release\Newtonsoft.Json.xml
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.AddAlbum.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.AddTrack.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.Details.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.Form1.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.Properties.Resources.resources
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.csproj.GenerateResource.Cache
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.exe
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.pdb
+D:\Dropbox\Public\MusicDB\musicDB\musicDB\obj\Release\musicDB.csprojResolveAssemblyReference.cache
