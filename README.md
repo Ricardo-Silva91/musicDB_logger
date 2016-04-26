@@ -1,8 +1,8 @@
-# musicDB_logger
-music logger with html frontend
+# musicDB_logger  
+music logger with html frontend  
  
-not ready for release
+not ready for release  
 missing:  
-  backend (unfinished);  
-  dynamic paths;  
+       -> backend (unfinished);  
+       -> dynamic paths;  
   
